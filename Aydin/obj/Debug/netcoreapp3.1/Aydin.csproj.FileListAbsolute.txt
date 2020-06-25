@@ -1,0 +1,11 @@
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\bin\Debug\netcoreapp3.1\Aydin.exe
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\bin\Debug\netcoreapp3.1\Aydin.deps.json
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\bin\Debug\netcoreapp3.1\Aydin.runtimeconfig.json
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\bin\Debug\netcoreapp3.1\Aydin.runtimeconfig.dev.json
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\bin\Debug\netcoreapp3.1\Aydin.dll
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\bin\Debug\netcoreapp3.1\Aydin.pdb
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\obj\Debug\netcoreapp3.1\Aydin.csprojAssemblyReference.cache
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\obj\Debug\netcoreapp3.1\Aydin.AssemblyInfoInputs.cache
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\obj\Debug\netcoreapp3.1\Aydin.AssemblyInfo.cs
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\obj\Debug\netcoreapp3.1\Aydin.dll
+C:\Users\bekza\Desktop\Aydin\Aydin\Aydin\obj\Debug\netcoreapp3.1\Aydin.pdb
